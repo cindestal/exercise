@@ -7,7 +7,7 @@
 .settings/
 
 # Intellij
-.idea/
+*.idea/
 .idea/workspace.xml
 *.iml
 *.iws
