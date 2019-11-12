@@ -8,7 +8,6 @@
 
 # Intellij
 *.idea/
-.idea/workspace.xml
 *.iml
 *.iws
 out/
